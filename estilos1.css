@@ -1,0 +1,47 @@
+h1 {
+    text-align: center;  
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 30px;
+}
+body {
+    padding:1;
+    margin:1;
+    background: rgb(150, 217, 255);
+    
+}
+.tabla1 {
+    width: 80%;
+    margin:auto;
+    overflow:hidden ;
+    max-width: 500px;
+    padding: 10px;
+
+    padding-bottom: 5px;
+    display: flex;
+    justify-content: center;
+}
+.datos {
+    padding: 2px;
+    max-width: 100px;
+    margin-bottom: 7px;
+    margin-left: 7px;
+    margin-right: 8px;
+    display: inline-flex;
+}
+.datosb mx-5 {
+    padding: 2px;
+    max-width: 100px;
+    display: inline-flex;
+}
+.numeroec{
+    font-size: 20px;
+}
+.crearsis{
+    padding-top: 8px;
+    display: inline-flex;
+}
+#myDiv{
+    justify-content: center;
+    text-align: center;
+    display: flex;
+}
